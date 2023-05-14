@@ -59,11 +59,9 @@ class SensorHelper implements SensorEventListener
       return;
 
     SensorManager.getRotationMatrixFromVector(mRotationMatrix, event.values);
-    SensorManager.remapCoordinateSystem(mRotationMatrix, SensorManager.AXIS_X, SensorManager.AXIS_Y, mRotationMatrix);
-
     SensorManager.getOrientation(mRotationMatrix, mRotationValues);
 
-    // mRotationValues indexes: 0 - yaw, 2 - roll, 1 - pitch.
+    // mRotationValues indexes: 0 - yaw (azimuth), 1 - pitch, 2 - roll.
     LocationHelper.INSTANCE.notifyCompassUpdated(mRotationValues[0]);
   }
 

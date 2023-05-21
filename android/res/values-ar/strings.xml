@@ -1413,6 +1413,7 @@
 	<string name="type.railway.monorail">اتجاه واحد</string>
 	<string name="type.railway.rail">خط سكة حديد</string>
 	<string name="type.railway.station">محطة سكك حديدية</string>
+	<string name="type.railway.station.funicular">حبلي</string>
 	<string name="type.railway.station.light_rail">محطة سكك حديدية</string>
 	<string name="type.railway.station.monorail">محطة سكك حديدية</string>
 	<string name="type.railway.station.subway">محطة مترو</string>

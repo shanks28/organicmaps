@@ -1302,6 +1302,7 @@
 	<string name="type.railway.monorail">Μονοαξονικός σιδηρόδρομος</string>
 	<string name="type.railway.rail">Σιδηρόδρομος</string>
 	<string name="type.railway.station">Σιδηροδρομικός σταθμός</string>
+	<string name="type.railway.station.funicular">Τελεφερίκ</string>
 	<string name="type.railway.station.light_rail">Σιδηροδρομικός σταθμός</string>
 	<string name="type.railway.station.monorail">Σιδηροδρομικός σταθμός</string>
 	<string name="type.railway.station.subway">Μετρό</string>

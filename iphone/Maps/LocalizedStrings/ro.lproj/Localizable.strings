@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Feroviar";
 
+"type.railway.station.funicular" = "Funicular";
+
 "type.railway.station.light_rail" = "Feroviar";
 
 "type.railway.station.monorail" = "Feroviar";

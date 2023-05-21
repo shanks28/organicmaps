@@ -1299,6 +1299,7 @@
 	<string name="type.railway.monorail">모노레일</string>
 	<string name="type.railway.rail">철로</string>
 	<string name="type.railway.station">기차역</string>
+	<string name="type.railway.station.funicular">강삭 철도</string>
 	<string name="type.railway.station.light_rail">기차역</string>
 	<string name="type.railway.station.monorail">기차역</string>
 	<string name="type.railway.station.subway">지하철</string>

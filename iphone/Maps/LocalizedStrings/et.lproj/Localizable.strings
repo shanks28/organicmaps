@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Raudtee jaam";
 
+"type.railway.station.funicular" = "Funikulöör";
+
 "type.railway.station.light_rail" = "Raudtee jaam";
 
 "type.railway.station.monorail" = "Raudtee jaam";

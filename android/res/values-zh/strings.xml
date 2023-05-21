@@ -1422,6 +1422,7 @@
 	<string name="type.railway.rail.motor_vehicle">铁路轨道</string>
 	<string name="type.railway.rail.tunnel">铁路轨道</string>
 	<string name="type.railway.station">火车站</string>
+	<string name="type.railway.station.funicular">缆车</string>
 	<string name="type.railway.station.light_rail">轻轨车站</string>
 	<string name="type.railway.station.monorail">单轨车站</string>
 	<string name="type.railway.station.subway">地铁车站</string>

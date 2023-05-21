@@ -1357,6 +1357,7 @@
 	<string name="type.railway.preserved">Museumsjernbane</string>
 	<string name="type.railway.rail">Toglinje</string>
 	<string name="type.railway.station">Togstasjon</string>
+	<string name="type.railway.station.funicular">Kabelbane</string>
 	<string name="type.railway.station.light_rail">Togstasjon</string>
 	<string name="type.railway.station.monorail">Togstasjon</string>
 	<string name="type.railway.station.subway">T-bane</string>

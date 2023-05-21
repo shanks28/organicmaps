@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Rautatieasema";
 
+"type.railway.station.funicular" = "Vuoristorata";
+
 "type.railway.station.light_rail" = "Rautatieasema";
 
 "type.railway.station.monorail" = "Rautatieasema";

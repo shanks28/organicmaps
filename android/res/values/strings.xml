@@ -1568,6 +1568,7 @@
 	<string name="type.railway.spur.bridge">Spur Rail Bridge</string>
 	<string name="type.railway.spur.tunnel">Spur Rail Tunnel</string>
 	<string name="type.railway.station">Train Station</string>
+	<string name="type.railway.station.funicular">Funicular</string>
 	<string name="type.railway.station.light_rail">Light Rail Station</string>
 	<string name="type.railway.station.monorail">Monorail Station</string>
 	<string name="type.railway.station.subway">Subway Station</string>

@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "火車站";
 
+"type.railway.station.funicular" = "纜車";
+
 "type.railway.station.light_rail" = "輕軌車站";
 
 "type.railway.station.monorail" = "單軌車站";

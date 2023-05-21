@@ -1360,6 +1360,7 @@
 	<string name="type.railway.spur.bridge">Ramal de ferrovia</string>
 	<string name="type.railway.spur.tunnel">Ramal de ferrovia</string>
 	<string name="type.railway.station">Estação de trem</string>
+	<string name="type.railway.station.funicular">Funicular</string>
 	<string name="type.railway.station.light_rail">Estação de trem</string>
 	<string name="type.railway.station.monorail">Estação de trem</string>
 	<string name="type.railway.station.subway">Estação de metrô</string>

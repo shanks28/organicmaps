@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "สถานีรถไฟ";
 
+"type.railway.station.funicular" = "รถกระเช้าไฟฟ้า";
+
 "type.railway.station.light_rail" = "สถานีรถไฟ";
 
 "type.railway.station.monorail" = "สถานีรถไฟ";

@@ -1351,6 +1351,7 @@
 	<string name="type.railway.monorail">Monorail (kohorata)</string>
 	<string name="type.railway.rail">Rautatie</string>
 	<string name="type.railway.station">Rautatieasema</string>
+	<string name="type.railway.station.funicular">Vuoristorata</string>
 	<string name="type.railway.station.light_rail">Rautatieasema</string>
 	<string name="type.railway.station.monorail">Rautatieasema</string>
 	<string name="type.railway.station.subway">Metro</string>

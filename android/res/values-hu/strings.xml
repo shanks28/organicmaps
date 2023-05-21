@@ -1319,6 +1319,7 @@
 	<string name="type.railway.monorail">Egysínű vasút</string>
 	<string name="type.railway.rail">Vasút</string>
 	<string name="type.railway.station">Vonatmegálló</string>
+	<string name="type.railway.station.funicular">Sikló</string>
 	<string name="type.railway.station.light_rail">Vonatmegálló</string>
 	<string name="type.railway.station.monorail">Vonatmegálló</string>
 	<string name="type.railway.station.subway">Földalatti</string>

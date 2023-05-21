@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Dworzec kolejowy";
 
+"type.railway.station.funicular" = "Kolejka linowa";
+
 "type.railway.station.light_rail" = "Dworzec kolejowy";
 
 "type.railway.station.monorail" = "Dworzec kolejowy";

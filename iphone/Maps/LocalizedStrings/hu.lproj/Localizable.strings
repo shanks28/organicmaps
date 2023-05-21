@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Vonatmegálló";
 
+"type.railway.station.funicular" = "Sikló";
+
 "type.railway.station.light_rail" = "Vonatmegálló";
 
 "type.railway.station.monorail" = "Vonatmegálló";

@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Bahnhof";
 
+"type.railway.station.funicular" = "Seilbahn";
+
 "type.railway.station.light_rail" = "Stadtbahnbahnhof";
 
 "type.railway.station.monorail" = "Bahnhof";

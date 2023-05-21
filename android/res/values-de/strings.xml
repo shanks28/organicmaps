@@ -1481,6 +1481,7 @@
 	<string name="type.railway.spur.bridge">Anschlussgleis</string>
 	<string name="type.railway.spur.tunnel">Anschlussgleis</string>
 	<string name="type.railway.station">Bahnhof</string>
+	<string name="type.railway.station.funicular">Seilbahn</string>
 	<string name="type.railway.station.light_rail">Stadtbahnbahnhof</string>
 	<string name="type.railway.station.monorail">Bahnhof</string>
 	<string name="type.railway.station.subway">U-Bahn-Station</string>

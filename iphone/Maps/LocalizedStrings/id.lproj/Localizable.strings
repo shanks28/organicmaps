@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Rel kereta api";
 
+"type.railway.station.funicular" = "Yg digerakkan oleh kabel";
+
 "type.railway.station.light_rail" = "Rel kereta api";
 
 "type.railway.station.monorail" = "Rel kereta api";

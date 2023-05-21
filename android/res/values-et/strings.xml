@@ -1501,6 +1501,7 @@
 	<string name="type.railway.spur.bridge">Rööbastee sild</string>
 	<string name="type.railway.spur.tunnel">Rööbastee tunnel</string>
 	<string name="type.railway.station">Raudtee jaam</string>
+	<string name="type.railway.station.funicular">Funikulöör</string>
 	<string name="type.railway.station.light_rail">Raudtee jaam</string>
 	<string name="type.railway.station.monorail">Raudtee jaam</string>
 	<string name="type.railway.station.subway">Metroo</string>

@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Đường tàu hỏa";
 
+"type.railway.station.funicular" = "Đường sắt leo núi";
+
 "type.railway.station.light_rail" = "Đường tàu hỏa";
 
 "type.railway.station.monorail" = "Đường tàu hỏa";

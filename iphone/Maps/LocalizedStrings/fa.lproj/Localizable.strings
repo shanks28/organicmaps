@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "ایستگاه قطار";
 
+"type.railway.station.funicular" = "فونیکولور";
+
 "type.railway.station.light_rail" = "ایستگاه قطار";
 
 "type.railway.station.monorail" = "ایستگاه قطار";

@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "기차역";
 
+"type.railway.station.funicular" = "강삭 철도";
+
 "type.railway.station.light_rail" = "기차역";
 
 "type.railway.station.monorail" = "기차역";

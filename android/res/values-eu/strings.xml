@@ -1411,6 +1411,7 @@
 	<string name="type.railway.monorail">Tren monoraila</string>
 	<string name="type.railway.rail">Trenbidea</string>
 	<string name="type.railway.station">Tren geltokian</string>
+	<string name="type.railway.station.funicular">Funikularra</string>
 	<string name="type.railway.station.light_rail">Tren geltokian</string>
 	<string name="type.railway.station.monorail">Tren geltokian</string>
 	<string name="type.railway.station.subway">Metroa</string>

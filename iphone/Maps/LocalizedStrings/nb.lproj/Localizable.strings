@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Togstasjon";
 
+"type.railway.station.funicular" = "Kabelbane";
+
 "type.railway.station.light_rail" = "Togstasjon";
 
 "type.railway.station.monorail" = "Togstasjon";

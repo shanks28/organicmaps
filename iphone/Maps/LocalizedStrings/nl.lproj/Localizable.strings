@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Station";
 
+"type.railway.station.funicular" = "Kabelbaan";
+
 "type.railway.station.light_rail" = "Station";
 
 "type.railway.station.monorail" = "Station";

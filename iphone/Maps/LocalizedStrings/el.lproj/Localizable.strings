@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Σιδηροδρομικός σταθμός";
 
+"type.railway.station.funicular" = "Τελεφερίκ";
+
 "type.railway.station.light_rail" = "Σιδηροδρομικός σταθμός";
 
 "type.railway.station.monorail" = "Σιδηροδρομικός σταθμός";

@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "鉄道駅";
 
+"type.railway.station.funicular" = "ケーブルカー";
+
 "type.railway.station.light_rail" = "鉄道駅";
 
 "type.railway.station.monorail" = "鉄道駅";

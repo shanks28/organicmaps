@@ -1314,6 +1314,7 @@
 	<string name="type.railway.monorail">Cale ferată monoșină</string>
 	<string name="type.railway.rail">Cale ferată</string>
 	<string name="type.railway.station">Feroviar</string>
+	<string name="type.railway.station.funicular">Funicular</string>
 	<string name="type.railway.station.light_rail">Feroviar</string>
 	<string name="type.railway.station.monorail">Feroviar</string>
 	<string name="type.railway.station.subway">Metrou</string>

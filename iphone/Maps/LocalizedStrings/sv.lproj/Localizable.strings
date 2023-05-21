@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Tågstation";
 
+"type.railway.station.funicular" = "Linbana";
+
 "type.railway.station.light_rail" = "Tågstation";
 
 "type.railway.station.monorail" = "Tågstation";

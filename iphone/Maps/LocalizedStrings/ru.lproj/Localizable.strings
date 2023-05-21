@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Ж/д станция";
 
+"type.railway.station.funicular" = "Фуникулер";
+
 "type.railway.station.light_rail" = "Ж/д станция";
 
 "type.railway.station.monorail" = "Ж/д станция";

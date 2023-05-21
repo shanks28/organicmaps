@@ -1420,6 +1420,7 @@
 	<string name="type.railway.spur.bridge">引き込み線(橋)</string>
 	<string name="type.railway.spur.tunnel">引き込み線(トンネル)</string>
 	<string name="type.railway.station">鉄道駅</string>
+	<string name="type.railway.station.funicular">ケーブルカー</string>
 	<string name="type.railway.station.light_rail">鉄道駅</string>
 	<string name="type.railway.station.monorail">鉄道駅</string>
 	<string name="type.railway.station.subway">地下鉄</string>

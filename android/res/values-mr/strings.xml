@@ -1353,6 +1353,7 @@
 	<string name="type.railway.rail.motor_vehicle">रेल्वे</string>
 	<string name="type.railway.rail.tunnel">रेल्वे</string>
 	<string name="type.railway.station">रेल्वे स्थानक</string>
+	<string name="type.railway.station.funicular">फ्युनिक्युलर</string>
 	<string name="type.railway.station.light_rail">रेल्वे स्थानक</string>
 	<string name="type.railway.station.monorail">रेल्वे स्थानक</string>
 	<string name="type.railway.station.subway">भुयारी मार्ग</string>

@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "火车站";
 
+"type.railway.station.funicular" = "缆车";
+
 "type.railway.station.light_rail" = "轻轨车站";
 
 "type.railway.station.monorail" = "单轨车站";

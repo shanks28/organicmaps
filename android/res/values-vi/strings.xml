@@ -1295,6 +1295,7 @@
 	<string name="type.railway.monorail">Đường sắt một chiều</string>
 	<string name="type.railway.rail">Đường sắt</string>
 	<string name="type.railway.station">Đường tàu hỏa</string>
+	<string name="type.railway.station.funicular">Đường sắt leo núi</string>
 	<string name="type.railway.station.light_rail">Đường tàu hỏa</string>
 	<string name="type.railway.station.monorail">Đường tàu hỏa</string>
 	<string name="type.railway.station.subway">Ngầm</string>

@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Tren İstasyonu";
 
+"type.railway.station.funicular" = "Füniküler";
+
 "type.railway.station.light_rail" = "Tren İstasyonu";
 
 "type.railway.station.monorail" = "Tren İstasyonu";

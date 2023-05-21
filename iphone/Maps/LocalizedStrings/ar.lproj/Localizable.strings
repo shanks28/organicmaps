@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "محطة سكك حديدية";
 
+"type.railway.station.funicular" = "حبلي";
+
 "type.railway.station.light_rail" = "محطة سكك حديدية";
 
 "type.railway.station.monorail" = "محطة سكك حديدية";

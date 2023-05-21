@@ -1212,6 +1212,7 @@
 	<string name="type.railway.monorail">مونوریل</string>
 	<string name="type.railway.rail">راه آهن</string>
 	<string name="type.railway.station">ایستگاه قطار</string>
+	<string name="type.railway.station.funicular">فونیکولور</string>
 	<string name="type.railway.station.light_rail">ایستگاه قطار</string>
 	<string name="type.railway.station.monorail">ایستگاه قطار</string>
 	<string name="type.railway.station.subway">حمل و نقل</string>

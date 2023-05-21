@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Tren geltokian";
 
+"type.railway.station.funicular" = "Funikularra";
+
 "type.railway.station.light_rail" = "Tren geltokian";
 
 "type.railway.station.monorail" = "Tren geltokian";

@@ -2795,6 +2795,8 @@
 
 "type.railway.station" = "Železniční stanice";
 
+"type.railway.station.funicular" = "Lanovka";
+
 "type.railway.station.light_rail" = "Železniční stanice";
 
 "type.railway.station.monorail" = "Železniční stanice";

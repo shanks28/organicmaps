@@ -1290,6 +1290,7 @@
 	<string name="type.railway.monorail">Monorail</string>
 	<string name="type.railway.rail">Jernbane</string>
 	<string name="type.railway.station">Togstation</string>
+	<string name="type.railway.station.funicular">Kabelbane</string>
 	<string name="type.railway.station.light_rail">Togstation</string>
 	<string name="type.railway.station.monorail">Togstation</string>
 	<string name="type.railway.station.subway">Metro</string>

@@ -2433,6 +2433,46 @@ sk:3Železničná stanica|vlakové nástupište|2vlak
 sw:Kituo cha treni|treni|usafiri
 fa:ایستگاه قطار|ایستگاه تراموا
 
+railway-station-funicular
+en:Funicular
+ar:حبلي
+be:Фунікулёр
+bg:Фуникуляр
+ca:Funicular
+cs:Lanovka
+da:Kabelbane
+de:Seilbahn
+el:Τελεφερίκ
+es:Funicular
+et:Funikulöör
+eu:Funikularra
+fa:فونیکولور
+fi:Vuoristorata
+fr:Funiculaire
+he:רַכֶּבֶל
+hu:Sikló
+id:Yg digerakkan oleh kabel
+it:Funicolare
+ja:ケーブルカー
+ko:강삭 철도
+mr:फ्युनिक्युलर
+nb:Kabelbane
+nl:Kabelbaan
+pl:Kolejka linowa
+pt:Funicular
+pt-BR:Funicular
+ro:Funicular
+ru:Фуникулер
+sk:Lanovka
+sv:Linbana
+sw:Funicular
+th:รถกระเช้าไฟฟ้า
+tr:Füniküler
+uk:Фунікулер
+vi:Đường sắt leo núi
+zh-Hans:缆车
+zh-Hant:纜車
+
 railway-subway_entrance|railway-station-subway|@transport
 en:3Subway|3tube|3metro|3underground|U+1F687
 ru:3Метро

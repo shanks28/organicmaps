@@ -18888,6 +18888,46 @@
     zh-Hans = 火车站
     zh-Hant = 火車站
 
+  [type.railway.station.funicular]
+    en = Funicular
+    ar = حبلي
+    be = Фунікулёр
+    bg = Фуникуляр
+    ca = Funicular
+    cs = Lanovka
+    da = Kabelbane
+    de = Seilbahn
+    el = Τελεφερίκ
+    es = Funicular
+    et = Funikulöör
+    eu = Funikularra
+    fa = فونیکولور
+    fi = Vuoristorata
+    fr = Funiculaire
+    he = רַכֶּבֶל
+    hu = Sikló
+    id = Yg digerakkan oleh kabel
+    it = Funicolare
+    ja = ケーブルカー
+    ko = 강삭 철도
+    mr = फ्युनिक्युलर
+    nb = Kabelbane
+    nl = Kabelbaan
+    pl = Kolejka linowa
+    pt = Funicular
+    pt-BR = Funicular
+    ro = Funicular
+    ru = Фуникулер
+    sk = Lanovka
+    sv = Linbana
+    sw = Funicular
+    th = รถกระเช้าไฟฟ้า
+    tr = Füniküler
+    uk = Фунікулер
+    vi = Đường sắt leo núi
+    zh-Hans = 缆车
+    zh-Hant = 纜車
+
   [type.railway.station.light_rail]
     ref = type.railway.station
     en = Light Rail Station
